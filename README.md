@@ -1,6 +1,7 @@
 # Document Q&A with RAG
 
 A Retrieval-Augmented Generation (RAG) app that answers natural-language questions from uploaded PDF documents, grounded in the document's actual content to reduce hallucination.
+link to run the project:  https://rag-document-hmpynkxuiehrngvyvvqjyp.streamlit.app/
 
 ## How it works
 
